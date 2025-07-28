@@ -1,0 +1,27 @@
+[
+    {
+"id":1,
+"image":"https://estatedev.in/assets/profile_img_1-zaNAVS_M.png",
+ "rating": 3,
+"name":"Donald Jackman",
+"field":"Marketing Manager",
+"msg":"From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+},
+ {
+"id":2,
+"image":"https://estatedev.in/assets/profile_img_2-dUNED7vt.png",
+ "rating":4,
+"name":"Richard Nelson",
+"field":"UI/UX Designer",
+ 
+"msg":"From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+},
+ {
+"id":3,
+"image":"https://estatedev.in/assets/profile_img_3-JahKdPEp.png",
+ "rating": 5,
+"name":"James Washington",
+"field":"Co-Founder",
+"msg":"From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+}
+]

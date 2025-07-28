@@ -1,0 +1,40 @@
+[{
+    "id":1,
+     "category": "Agents / Brokers",
+      "description": "Here Are Hassle-Free Solutions! Buy - Sell - Rent Your Property",
+      "action": "Read More"
+},
+{
+"id":2,
+"category": "Builders / Developers",
+      "description": "List of the most trusted and reliable builders to fulfill your Dream HOME.",
+      "action": "Read More"
+},
+{
+    "id":3,
+"category": "Architects / Architecture",
+      "description": "Professional Architecture will meet your needs and expectations.",
+      "action": "Read More"
+},
+
+{
+"id":4,
+"category": "Interior Decorators",
+      "description": "A One-Stop Solution for all your decor Needs to Match Your Lifestyle.",
+      "action": "Read More"
+},
+{
+
+    "id":5,
+    "category": "Vaastu Consultant",
+      "description": "Connect to top most Vastu consultants for right direction.",
+      "action": "Read More"
+},
+{
+    "id":6,
+     "category": "Building Contractors",
+      "description": "General contractor for a home repair, remodel, or construction.",
+      "action": "Read More"
+}
+
+]
